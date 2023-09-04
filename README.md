@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NolanMarshmallow.
-- 👀 I’m interested in html/javascript web based programs.
+- 👀 I’m interested in html/javascript web based programs and ethical DEMOS of inspect console exploits of weak websites.
 - 🌱 I’m currently learning how to use Stencyl.
 - 📫 How to reach me: you know me in real life and ask for my number like a normal person.
 
